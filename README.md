@@ -1,2 +1,2 @@
 # recommender-system
-A Recommendation System focused on novelty, diversity and serendipity
+A Recommendation System focused on serendipity
